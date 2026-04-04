@@ -1,6 +1,6 @@
 # Project Plan
 
-> **Team:** Antonin Miranda · Kyllian Tranchet · Hugo Denis
+> **Team:** Antonin Miranda · Kylian Tranchet · Hugo Denis
 > **Deadline:** April 5, 2026 — 10:00 PM
 > **Repository:** Public GitHub (Markdown)
 > **Process:** Trunk-based Development (short-lived branches + Pull Requests)
