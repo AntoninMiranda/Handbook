@@ -5,7 +5,7 @@ A handbook of software development best practices for our engineering team.
 ## Team
 
 - Antonin Miranda
-- Kyllian Tranchet
+- Kylian Tranchet
 - Hugo Denis
 
 ## Project Plan
