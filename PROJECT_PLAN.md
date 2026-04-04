@@ -83,9 +83,9 @@ The three handbook topics (Phases 3a, 3b, 3c) can be worked on in parallel since
 | Phase | Tasks | Who |
 |---|---|---|
 | **1 — Repo setup** | Create repo, add .gitignore, README, project plan | Antonin |
-| **2 — Handbook structure** | Create intro, placeholder files, assets folder | Kyllian |
+| **2 — Handbook structure** | Create intro, placeholder files, assets folder | Kylian |
 | **3 — Content (parallel)** | Write all three topic sections | All |
-| **4 — Finalisation** | Contributions table, retrospective, formatting pass | Hugo, Antonin, Kyllian |
+| **4 — Finalisation** | Contributions table, retrospective, formatting pass | Hugo, Antonin, Kylian |
 
 ---
 
