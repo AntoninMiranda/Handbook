@@ -29,9 +29,9 @@ flowchart LR
     H -- No --> F
     H -- Yes --> I[Build artefact]
     I --> J[Deploy to Production]
+    J --> K[Smoke tests / E2E]
+    K --> L[✅ Deploy to Production]
 ```
-
-The target is under 10 minutes, start to finish. That's not arbitrary — it's the threshold past which developers stop waiting for results and start merging anyway. Once that happens the pipeline is just decorative.
 
 ---
 
