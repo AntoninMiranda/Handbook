@@ -40,13 +40,13 @@
 | Task | Owner | Contributor | Branch |
 |---|---|---|---|
 | Repository setup + project plan | Antonin | — | `docs/project-plan` |
-| Handbook introduction & structure | Kyllian | — | `docs/handbook-intro` |
-| Task Estimation section | Antonin | Kyllian | `feat/task-estimation` |
-| Code Reviews section | Kyllian | Hugo | `feat/code-reviews` |
+| Handbook introduction & structure | Kylian | — | `docs/handbook-intro` |
+| Task Estimation section | Antonin | Kylian | `feat/task-estimation` |
+| Code Reviews section | Kylian | Hugo | `feat/code-reviews` |
 | CI/CD section | Hugo | Antonin | `feat/ci-cd` |
 | Individual contributions table | Hugo | — | `docs/contributions-table` |
-| Retrospective | Antonin | Kyllian, Hugo | `docs/retrospective` |
-| Final review & formatting | Kyllian | — | `fix/formatting-consistency` |
+| Retrospective | Antonin | Kylian, Hugo | `docs/retrospective` |
+| Final review & formatting | Kylian | — | `fix/formatting-consistency` |
 
 > Each topic must have at least **2 contributors** in the commit history. Everyone must also participate in reviewing Pull Requests.
 
