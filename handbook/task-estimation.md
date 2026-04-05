@@ -68,6 +68,9 @@ Planning Poker is how most Scrum teams estimate in practice. Everyone picks a ca
   2. Each member secretly picks a card
      [ 1 ]  [ 2 ]  [ 3 ]  [ 5 ]  [ 8 ]  [ 13 ]  [ 21 ]
           │
+          ▼
+  3. Simultaneous reveal
+          │
           │
      ┌────┴────┐
      │         │
