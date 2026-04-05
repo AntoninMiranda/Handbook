@@ -28,7 +28,7 @@ flowchart LR
     G --> H{Tests pass?}
     H -- No --> F
     H -- Yes --> I[Build artefact]
-    I --> J[Deploy to Production]
+    I --> J[Deploy to Staging]
     J --> K[Smoke tests / E2E]
     K --> L[✅ Deploy to Production]
 ```
