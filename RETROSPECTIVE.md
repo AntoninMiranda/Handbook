@@ -1,6 +1,6 @@
 # Project Retrospective — Software Quality Handbook
 
-*Written by Antonin Miranda, with input from Kyllian Tranchet and Hugo Denis.*
+*Written by Antonin Miranda, with input from Kylian Tranchet and Hugo Denis.*
 
 ---
 
@@ -14,19 +14,19 @@
 
 ---
 
-## What Didnt Work
+## What Didn't Work
 
 **We underestimated the research phase.** Finding 5 quality sources per topic that were experience-based rather than purely theoretical took longer than planned. We assumed it would be quick and it wasn't.
 
 **Coordination on shared files was awkward.** When multiple people needed to touch `handbook/index.md` (for the contributions table, the intro, links), we had to be careful about timing to avoid conflicts. A clearer ownership rule for shared files would have helped.
 
-**The formatting pass came too late.** Kyllian's formatting review was planned as the final step, but some inconsistencies had already spread through several files by then. Catching formatting issues earlier — or agreeing on a stricter style guide at the start — would have saved time.
+**The formatting pass came too late.** Kylian's formatting review was planned as the final step, but some inconsistencies had already spread through several files by then. Catching formatting issues earlier — or agreeing on a stricter style guide at the start — would have saved time.
 
 ---
 
-## What We'd Do Differentl Next Time
+## What We'd Do Differently Next Time
 
-- **Set a styl guide on day one.** Even a short one — heading levels, bullet point style, how to cite sources. It would have made the formatting pass almost unnecessary.
+- **Set a style guide on day one.** Even a short one — heading levels, bullet point style, how to cite sources. It would have made the formatting pass almost unnecessary.
 - **Time-box the research phase.** Give it a fixed slot and move on, rather than letting it expand.
 - **Define ownership of shared files more explicitly** in the project plan, to avoid coordination overhead mid-project.
 - **Start reviews earlier.** Rather than waiting for a section to be fully written, reviewing a draft earlier would have caught structural issues before they were hard to change.
