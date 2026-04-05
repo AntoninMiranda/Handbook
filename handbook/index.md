@@ -41,7 +41,7 @@ If you disagree with something here, open a PR and make your case. This document
 | 1 | [Introduction](./index.md) | Purpose and structure of this handbook |
 | 2 | [Task Estimation in Scrum](./task-estimation.md) | How to estimate work reliably, run Planning Poker, and avoid common traps |
 | 3 | [Code Reviews](./code-reviews.md) | How to give and receive useful feedback, keep PRs small, and avoid bottlenecks |
-
+| 4 | [CI/CD](./ci-cd.md) | How to build reliable pipelines, automate testing, and deploy with confidence |
 ---
 
 ## Individual Contributions
