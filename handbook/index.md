@@ -1,7 +1,7 @@
 # 📘 Engineering Handbook — Best Practices
 
-> **Maintenu par :** Antonin Miranda · Kylian Tranchet · Hugo Denis  
-> **Dernière mise à jour :** April 2026  
+> **Maintained by :** Antonin Miranda · Kylian Tranchet · Hugo Denis  
+> **Last updated :** April 2026
 > **Repo :** Public GitHub — contributions via Pull Request uniquement
 
 ---
