@@ -65,3 +65,17 @@ Follow the same process as any code change:
 5. Never merge your own PR without review
 
 See the [Project Plan](../PROJECT_PLAN.md) for full workflow details.
+
+---
+
+## Team Contributions
+
+| Team Member | Contributions | Verified by |
+|---|---|---|
+| **Antonin Miranda** (A00048051) | - Created the GitHub repository and configured branch protection rules<br>- Wrote the project plan (`PROJECT_PLAN.md`) and assigned all tasks<br>- Wrote the main body of the **Task Estimation in Scrum** section<br>- Contributed to the **CI/CD** section <br>- Wrote the **Retrospective** (`RETROSPECTIVE.md`)<br>- Reviewed PRs for Code Reviews and CI/CD sections | Kylian Tranchet, Hugo Denis |
+| **Kylian Tranchet** (A00048049) | - Wrote the **Handbook introduction** (`handbook/index.md`) and created the document structure<br>- Contributed to the **Task Estimation** section (added real-world examples and diagrams)<br>- Wrote the main body of the **Code Reviews** section<br>- Performed the **final formatting pass** across all sections<br>- Reviewed PRs for Task Estimation and CI/CD sections | Antonin Miranda, Hugo Denis |
+| **Hugo Denis** (A00048052) | - Researched and wrote the main body of the **CI/CD** section including 5 quality sources, good/bad practices, Mermaid pipeline diagram, and comparison table<br>- Contributed to the **Code Reviews** section (added reviewer/author checklist and good vs. bad comment examples)<br>- Created the **individual contributions table**<br>- Reviewed PRs for Task Estimation and Code Reviews sections | Antonin Miranda, Kylian Tranchet |
+
+---
+
+*All contributions are verifiable through the Git commit history and pull request activity on this repository.*
